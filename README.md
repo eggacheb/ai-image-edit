@@ -228,11 +228,9 @@ A: 图片元素如果比较多比较复杂，可能会导致不稳定，影响�
 - **Issue**: [GitHub Issues](https://github.com/chunxiuxiamo/ai-image-edit/issues)
 - **GitHub**: [@chunxiuxiamo](https://github.com/chunxiuxiamo)
 - **项目链接**: [https://github.com/chunxiuxiamo/ai-image-edit](https://github.com/chunxiuxiamo/ai-image-edit)
-- **个人微信**：<img width="269" height="367" alt="image" src="https://github.com/user-attachments/assets/1e4325da-9dd0-4762-9c81-03b545eeca81" />
-- **微信交流群** <img width="329" height="452" alt="image" src="https://github.com/user-attachments/assets/1a6a9794-737c-422a-898f-22615373ff4d" />
+- <img width="269" height="367" alt="image" src="https://github.com/user-attachments/assets/1e4325da-9dd0-4762-9c81-03b545eeca81" /> <img width="329" height="452" alt="image" src="https://github.com/user-attachments/assets/1a6a9794-737c-422a-898f-22615373ff4d" />
 
 
 ## 🌟 Star History
-
 如果这个项目对你有帮助，请给一个 ⭐ Star 支持一下！
 ---
